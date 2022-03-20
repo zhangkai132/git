@@ -8,5 +8,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("hello git --v1");
         System.out.println("hello git --v2");
+        System.out.println("hello git --v3");
     }
 }
