@@ -7,5 +7,6 @@ package com.zk.com.zk.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("hello git --v1");
+        System.out.println("hello git --v2");
     }
 }
