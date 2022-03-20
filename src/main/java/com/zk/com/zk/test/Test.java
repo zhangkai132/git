@@ -9,5 +9,6 @@ public class Test {
         System.out.println("hello git --v1");
         System.out.println("hello git --v2");
         System.out.println("hello git --v3");
+        System.out.println("hello git --by hot-fix");
     }
 }
